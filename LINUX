@@ -1,3 +1,7 @@
 repository is used for collection of files and directories
 it is used to import the file n repositories
-it is used to store development project
+<<<<<<< HEAD
+github repository should contain a licence file
+=======
+github repository should contain a licence file
+>>>>>>> feature
